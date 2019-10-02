@@ -1,0 +1,19 @@
+.nav{
+    margin-left: auto;
+    margin-right: auto;
+    display:flex;
+    Justify-content:space-between;
+    width: 25%;
+}
+.header{
+    background: #1089FF;
+    width: 100%;
+}
+.about,.home,.help{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+.links{
+    text-decoration: none;
+}
